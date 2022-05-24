@@ -20,5 +20,6 @@ docker-compose pull
 sleep 2
 docker-compose up -d
 
+docker ps | grep ghcr.io/connext/router
 
-echo Completed Update to Version: $connextnew!!!!
+echo Completed Update check you Tag version
