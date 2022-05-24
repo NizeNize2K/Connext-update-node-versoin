@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -x
 
-echo ------------Connext Update Node Versoin Start!!!------------
+echo ------------Connext Update Node Start!!!------------
 cd /root/nxtp-router-docker-compose
 echo You ROUTER_VERSION 
 cat .env | grep ROUTER_VERSION
