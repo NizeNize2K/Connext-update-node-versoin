@@ -8,11 +8,11 @@ wget -q -O connext-version-update-by-nongnicelnwza007.sh https://raw.githubuserc
 
 ROUTER_VERSION=`0.2.0-alpha.16` << you router curent version
 
-## Step 1  
-### Now connext router version: `Enter you curent version`
+### Step 1  
+## Now connext router version: `Enter you curent version`
 
-## Step 2 
-### Update connext router To version: `Enter you new version`
+### Step 2 
+## Update connext router To version: `Enter you new version`
 
 Ex.
 
