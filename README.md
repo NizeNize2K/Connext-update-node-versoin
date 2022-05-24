@@ -1,4 +1,4 @@
-# Connext-update-node-versoin
+# Connext-update-node-version
 
 ## Use Command Below for Update version router
 
