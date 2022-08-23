@@ -1,1 +1,1 @@
-select 'test_git_script_transformation' from table_test;
+select 'transformation' from table_test;
